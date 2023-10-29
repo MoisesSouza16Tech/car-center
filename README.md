@@ -6,7 +6,7 @@ Projeto de treino de um concessionária feito com PHP
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="img/car-center-layout.jpg">
+    <img src="img/car-center-layout.png">
 
 </body>
 </html>
