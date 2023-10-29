@@ -7,6 +7,13 @@ Projeto de treino de um concessionária feito com PHP
 </head>
 <body>
     <img src="img/car-center-layout.png">
+    <img src="img/car-center-layout-carrinho-compras.png">
+    <img src="img/car-center-layout-compras.png">
+    <img src="img/car-center-layout-carrinho-compras.png">
+    <img src="img/car-center-login.png">
+    <img src="img/car-center-categoria-adm.png">
+    <img src="img/car-center-veiculo-adm.png">
+
 
 </body>
 </html>
