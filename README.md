@@ -1,4 +1,4 @@
-Projeto de treino de um concessionária feito com PHP
+Projeto de treino de um concessionária feito com PHP e Javascript
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
