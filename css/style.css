@@ -50,7 +50,7 @@ Table OF Contents
 /*=========================================================
 	01 -> GENERAL
 ===========================================================*/
-
+/*
 body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
@@ -85,7 +85,7 @@ ul, ol {
 /*----------------------------*\
 	Buttons
 \*----------------------------*/
-
+/*
 .primary-btn {
   display: inline-block;
   padding: 12px 30px;
@@ -110,7 +110,7 @@ ul, ol {
 \*----------------------------*/
 
 /*-- Text input --*/
-
+/*
 .input {
   height: 40px;
   padding: 0px 15px;
@@ -119,14 +119,14 @@ ul, ol {
   background-color: #FFF;
   width: 100%;
 }
-
+/*
 textarea.input {
   padding: 15px;
   min-height: 90px;
 }
 
 /*-- Number input --*/
-
+/*
 .input-number {
   position: relative;
 }
@@ -178,7 +178,7 @@ textarea.input {
 }
 
 /*-- Select input --*/
-
+/*
 .input-select {
   padding: 0px 15px;
   background: #FFF;
@@ -188,12 +188,12 @@ textarea.input {
 }
 
 /*-- checkbox & radio input --*/
-
+/*
 .input-radio, .input-checkbox {
   position: relative;
   display: block;
 }
-
+/*
 .input-radio input[type="radio"]:not(:checked), .input-radio input[type="radio"]:checked, .input-checkbox input[type="checkbox"]:not(:checked), .input-checkbox input[type="checkbox"]:checked {
   position: absolute;
   margin-left: -9999px;
@@ -288,7 +288,7 @@ textarea.input {
 /*----------------------------*\
 	Section
 \*----------------------------*/
-
+/*
 .section {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -354,7 +354,7 @@ textarea.input {
 /*----------------------------*\
 	Breadcrumb
 \*----------------------------*/
-
+/*
 #breadcrumb {
   padding: 30px 0px;
   background: #FBFBFC;
@@ -407,7 +407,7 @@ textarea.input {
 /*----------------------------*\
 	Top header
 \*----------------------------*/
-
+/*
 #top-header {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -440,7 +440,7 @@ textarea.input {
 /*----------------------------*\
 	Logo
 \*----------------------------*/
-
+/*
 #header {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -458,7 +458,7 @@ textarea.input {
 /*----------------------------*\
 	Search
 \*----------------------------*/
-
+/*
 .header-search {
   padding: 15px 0px;
 }
@@ -490,7 +490,7 @@ textarea.input {
 /*----------------------------*\
 	Cart
 \*----------------------------*/
-
+/*
 .header-ctn {
   float: right;
   padding: 15px 0px;
@@ -622,7 +622,7 @@ textarea.input {
 /*=========================================================
 	03 -> Navigation
 ===========================================================*/
-
+/*
 #navigation {
   background: #FFF;
   border-bottom: 2px solid #E4E7ED;
@@ -632,7 +632,7 @@ textarea.input {
 /*----------------------------*\
 	Main nav
 \*----------------------------*/
-
+/*
 .main-nav>li+li {
   margin-left: 30px
 }
@@ -667,7 +667,7 @@ textarea.input {
 /*----------------------------*\
 	responsive nav
 \*----------------------------*/
-
+/*
 @media only screen and (max-width: 991px) {
   .header-ctn .menu-toggle {
     display: inline-block;
@@ -715,7 +715,7 @@ textarea.input {
 /*=========================================================
 	04 -> CATEGORY SHOP
 ===========================================================*/
-
+/*
 .shop {
   position: relative;
   overflow: hidden;
@@ -749,7 +749,7 @@ textarea.input {
   -ms-transform: skewX(-45deg) translateX(-100%);
   transform: skewX(-45deg) translateX(-100%);
 }*/
-
+/*
 .shop .shop-img {
   position: relative;
   background-color: #E4E7ED;
@@ -788,7 +788,7 @@ textarea.input {
 /*=========================================================
 	05 -> HOT DEAL
 ===========================================================*/
-
+/*
 #hot-deal.section {
   padding: 60px 0px;
   margin: 30px 0px;
@@ -855,7 +855,7 @@ textarea.input {
 /*----------------------------*\
 	product
 \*----------------------------*/
-
+/*
 .product {
   position: relative;
   margin: 15px 0px;
@@ -1086,7 +1086,7 @@ textarea.input {
 /*----------------------------*\
 	Widget product
 \*----------------------------*/
-
+/*
 .product-widget {
   position: relative;
 }
@@ -1163,7 +1163,7 @@ textarea.input {
 /*----------------------------*\
 	Products slick
 \*----------------------------*/
-
+/*
 .products-slick .slick-list {
   padding-bottom: 60px;
   margin-bottom: -60px;
@@ -1230,7 +1230,7 @@ textarea.input {
 }
 
 /*-- checkbox Filter --*/
-
+/*
 .checkbox-filter>div+div {
   margin-top: 10px;
 }
@@ -1244,7 +1244,7 @@ textarea.input {
 }
 
 /*-- Price Filter --*/
-
+/*
 #price-slider {
   margin-bottom: 15px;
 }
@@ -1289,14 +1289,14 @@ textarea.input {
 /*----------------------------*\
 	Store
 \*----------------------------*/
-
+/*
 .store-filter {
   margin-bottom: 15px;
   margin-top: 15px;
 }
 
 /*-- Store Sort --*/
-
+/*
 .store-sort {
   display: inline-block;
 }
@@ -1309,11 +1309,11 @@ textarea.input {
 }
 
 /*-- Store Grid --*/
-
+/*
 .store-grid {
   float: right;
 }
-
+/*
 .store-grid li {
   display: inline-block;
   width: 40px;
@@ -1325,7 +1325,7 @@ textarea.input {
   -webkit-transition: 0.2s all;
   transition: 0.2s all;
 }
-
+/*
 .store-grid li+li {
   margin-left: 5px;
 }
@@ -1347,7 +1347,7 @@ textarea.input {
 }
 
 /*-- Store Pagination --*/
-
+/*
 .store-pagination {
   float: right;
 }
@@ -1363,7 +1363,7 @@ textarea.input {
   -webkit-transition: 0.2s all;
   transition: 0.2s all;
 }
-
+/*
 .store-pagination li+li {
   margin-left: 5px;
 }
@@ -1399,7 +1399,7 @@ textarea.input {
 /*----------------------------*\
 	Product view
 \*----------------------------*/
-
+/*
 #product-main-img .slick-prev {
   -webkit-transform: translateX(-15px);
   -ms-transform: translateX(-15px);
@@ -1473,7 +1473,7 @@ textarea.input {
 /*----------------------------*\
 	Product details
 \*----------------------------*/
-
+/*
 .product-details .product-name {
   text-transform: uppercase;
   font-size: 18px;
@@ -1618,7 +1618,7 @@ textarea.input {
 /*----------------------------*\
 	 Product tab
 \*----------------------------*/
-
+/*
 #product-tab {
   margin-top: 60px;
 }
@@ -1676,7 +1676,7 @@ textarea.input {
 }
 
 /*-- Rating --*/
-
+/*
 .rating-avg {
   font-size: 24px;
   font-weight: 700;
@@ -1729,7 +1729,7 @@ textarea.input {
 }
 
 /*-- Reviews --*/
-
+/*
 .reviews li {
   position: relative;
   padding-left: 145px;
@@ -1804,7 +1804,7 @@ textarea.input {
 }
 
 /*-- Review Form --*/
-
+/*
 .review-form .input {
   margin-bottom: 15px;
 }
@@ -1849,7 +1849,7 @@ textarea.input {
 /*=========================================================
 	09 -> CHECKOUT PAGE
 ===========================================================*/
-
+/*
 .billing-details {
   margin-bottom: 30px;
 }
@@ -1924,7 +1924,7 @@ textarea.input {
 /*=========================================================
 	10 -> NEWSLETTER
 ===========================================================*/
-
+/*
 #newsletter.section {
   border-top: 2px solid #E4E7ED;
   border-bottom: 3px solid #D10024;
@@ -1964,7 +1964,7 @@ textarea.input {
   margin-right: -4px;
   border-radius: 40px 40px 40px 40px;
 }
-
+/*
 .newsletter form .newsletter-btn {
   width: 160px;
   height: 40px;
@@ -2012,7 +2012,7 @@ textarea.input {
 /*=========================================================
 	11 -> FOOTER
 ===========================================================*/
-
+/*
 #footer {
   background: #15161D;
   color: #B9BABC;
@@ -2041,7 +2041,7 @@ textarea.input {
 .footer-links li a {
   color: #B9BABC;
 }
-
+/*
 .footer-links li i {
   margin-right: 15px;
   color: #D10024;
@@ -2063,7 +2063,7 @@ textarea.input {
   display: inline-block;
   margin-right: 5px;
 }
-
+/*
 .footer-payments li a {
   color: #15161D;
   font-size: 36px;
@@ -2077,7 +2077,7 @@ textarea.input {
 /*----------------------------*\
 	Arrows
 \*----------------------------*/
-
+/*
 .slick-prev, .slick-next {
   width: 40px;
   height: 40px;
@@ -2155,7 +2155,7 @@ textarea.input {
 /*=========================================================
 	13 -> RESPONSIVE
 ===========================================================*/
-
+/*
 @media only screen and (max-width: 1201px) {}
 
 @media only screen and (max-width: 991px) {
